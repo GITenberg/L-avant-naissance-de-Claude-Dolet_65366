@@ -1,5 +1,8 @@
 _repo: L-avant-naissance-de-Claude-Dolet_65366
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65366-h/images/cover.jpg
 creator:
   author:
     agent_name: Dolet, Etienne
@@ -15,6 +18,8 @@ creator:
     - https://fr.wikipedia.org/wiki/%C3%89tienne_Dolet
     - https://en.wikipedia.org/wiki/%C3%89tienne_Dolet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65366#L-avant-naissance-de-Claude-Dolet
 gutenberg_issued: '2021-05-17'
 gutenberg_type: Text
 identifiers:
